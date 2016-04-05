@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "Krokro",
+    "lastname": "Mimi",
+    "age": "55",
+    "job": "Technical",
+    "Tel": "0328491500"
+  },
+  {
+    "id": "1",
+    "name": "Obamix",
+    "lastname": "Barack",
+    "age": "55",
+    "job": "Technical",
+    "Tel": "0328491500"
+  },
+  {
+    "id": "3",
+    "name": "Buck",
+    "lastname": "Jule",
+    "age": "55",
+    "job": "Technical",
+    "Tel": "0328491500"
+  }
+]
