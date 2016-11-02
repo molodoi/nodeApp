@@ -20,3 +20,8 @@ Learn how to:
 - Controllers
 - Views
 - CRUD
+
+Install
+========================
+- git clone https://github.com/molodoi/nodeApp.git
+- npm install
